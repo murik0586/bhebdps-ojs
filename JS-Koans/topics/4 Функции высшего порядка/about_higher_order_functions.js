@@ -72,3 +72,4 @@ describe("About Higher Order Functions (about_higher_order_functions.js)", funct
     });
 
 });
+
